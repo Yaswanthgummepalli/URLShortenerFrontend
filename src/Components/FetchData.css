@@ -71,6 +71,10 @@ button:hover{
     font-weight:bold;
     word-break:break-word;
 }
+.originalUrl{
+    margin:20px 0px;
+    text-align: center;
+}
 
 @media (max-width: 768px) {
 
@@ -131,4 +135,5 @@ button:hover{
         font-size:14px;
         padding:10px;
     }
+  
 }
